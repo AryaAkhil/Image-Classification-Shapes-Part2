@@ -4,6 +4,8 @@
 Here is the link to the app - 
 https://hub-binder.mybinder.ovh/user/aryaakhil-image-on-shapes-part2-qs8jt8kx/voila/render/Image%20Classification%20Viola%20App.ipynb?token=ygb4FveUSvabjWh46GKQPw
 
+The app can successfully classify hand drawn or pictorial shapes into squares, circles or triangles. Try it yourself.
+
 ### Keywords: 
 Fastai, GPU, Colab, Resnet34, Kaggle Shapes (squares, traingles and circles) dataset
 
