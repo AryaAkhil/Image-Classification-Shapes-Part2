@@ -1,10 +1,7 @@
 ## Summary
 
 ### Application
-Here is the link to the app - 
-https://hub-binder.mybinder.ovh/user/aryaakhil-image-on-shapes-part2-qs8jt8kx/voila/render/Image%20Classification%20Viola%20App.ipynb?token=ygb4FveUSvabjWh46GKQPw
-
-The app can successfully classify hand drawn or pictorial shapes into squares, circles or triangles. Try it yourself.
+https://mybinder.org/v2/gh/AryaAkhil/Image-Classification-Shapes-Part2/HEAD?urlpath=%2Fvoila%2Frender%2FImage%20Classification%20Viola%20App.ipynb
 
 ### Keywords: 
 Fastai, GPU, Colab, Resnet34, Kaggle Shapes (squares, traingles and circles) dataset
@@ -17,6 +14,7 @@ torch, fastai.vision
 
 ### Overview:
 This repository aims to showcase use of Viola and Mybinder to create a web application to classify shapes into squares, triangles or circles.
+The app can successfully classify hand drawn or pictorial shapes into squares, circles or triangles. Try it yourself.
 
 ### Data Source: 
 https://www.kaggle.com/cactus3/basicshapes
